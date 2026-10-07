@@ -7,7 +7,7 @@ I'm looking for a graduate or junior developer role in the UK, starting in summe
 
 - **Now:** my honours project is about finding Redis "hot keys" from inside the Linux kernel. An eBPF program counts
   keys in a count-min sketch, a small CLI reports the top ones, and I measure how accurate it is and how much it slows Redis down.
-- **Before:** I co-founded City Voice, a startup we worked on for a year as a team of five developers. We built a
+- **Before:** I co-founded City Voice, a startup we worked on for a year as a team of four. We built a
   working mobile app prototype and a complete backend; I designed the database and the Django REST Framework API.
   We didn't find funding, so it never launched, but it taught me how to build software as a team, with code reviews.
 
